@@ -1,0 +1,35 @@
+{
+  "primaryNotesLocation": "root",
+  "dailyNotes": {
+    "enabled": false,
+    "directory": "Daily Notes",
+    "titlePattern": "yyyy-MM-dd",
+    "locale": "system",
+    "legacyPatterns": [],
+    "tasksDueOnNoteDate": true,
+    "rolloverUnfinishedTasks": false
+  },
+  "weeklyNotes": {
+    "enabled": false,
+    "directory": "Weekly Notes",
+    "titlePattern": "yyyy-'W'ww",
+    "locale": "system",
+    "legacyPatterns": []
+  },
+  "monthlyNotes": {
+    "enabled": false,
+    "directory": "Monthly Notes",
+    "titlePattern": "yyyy-MM",
+    "locale": "system",
+    "legacyPatterns": []
+  },
+  "drawingsLocation": {
+    "mode": "primary"
+  },
+  "databasesLocation": {
+    "mode": "primary"
+  },
+  "folderIcons": {},
+  "folderColors": {},
+  "favorites": []
+}
