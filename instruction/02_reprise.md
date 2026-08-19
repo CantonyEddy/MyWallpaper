@@ -18,3 +18,11 @@ FORMAT : catégorie_sujet-détail_couleur-dominante_artiste.extension
 - Tout en minuscules
 - Si artiste inconnu : omets ce bloc
 - En cas de doublons (même image en plusieurs résolutions), suffixe le dernier bloc avec -02, -03, etc.
+
+CATÉGORIES (bloc "catégorie") — utilise l'une des suivantes, en crée une nouvelle si besoin :
+anime, manga, nature, space, scifi, fantasy, abstract, pixelart, art, cars, gaming,
+tech, minimal, aesthetic, pokemon, architecture, halftone.
+- architecture : bâtiments, cathédrales, dômes, escaliers, structures, plafonds, etc.
+- halftone : rendus en trame de points / demi-teintes (versions "dots"/tramées d'une image).
+  Pour ces fichiers, la catégorie est "halftone" (et non la catégorie de l'image d'origine).
+  Un éventuel fichier vecteur .svg compagnon porte le même nom de base.

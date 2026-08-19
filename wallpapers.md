@@ -1,6 +1,6 @@
 # Wallpapers
 
-Suivi du renommage des wallpapers (531 entrées). Convention : `catégorie_sujet-détail_couleur-dominante_artiste.extension`.
+Suivi du renommage des wallpapers (540 entrées). Convention : `catégorie_sujet-détail_couleur-dominante_artiste.extension`.
 
 | ID | ancien_nom | nouveau_nom | aperçu |
 |---:|------------|-------------|:------:|
@@ -537,3 +537,12 @@ Suivi du renommage des wallpapers (531 entrées). Convention : `catégorie_sujet
 
 !
 | 531 | ig636-wallpaper.cam.png | tech_snowflake-logo-minimal_dark-blue.png | <a href="ig636-wallpaper.cam.png"><img src="ig636-wallpaper.cam.png" width="120"></a> |
+| 532 | piqsels.com-id-sdtpj.jpg | nature_mountain-valley-lake_black-white.jpg | <a href="nature_mountain-valley-lake_black-white.jpg"><img src="nature_mountain-valley-lake_black-white.jpg" width="120"></a> |
+| 533 | piqsels.png | halftone_mountain-valley-lake_black-white.png | <a href="halftone_mountain-valley-lake_black-white.png"><img src="halftone_mountain-valley-lake_black-white.png" width="120"></a> |
+| 534 | wallpaperflare.com_wallpaper.jpg | halftone_saturn-rings_dark-blue.jpg | <a href="halftone_saturn-rings_dark-blue.jpg"><img src="halftone_saturn-rings_dark-blue.jpg" width="120"></a> |
+| 535 | art_fantasy-landscape_colorful-01_dots.png | halftone_fantasy-landscape_black-white.png | <a href="halftone_fantasy-landscape_black-white.png"><img src="halftone_fantasy-landscape_black-white.png" width="120"></a> |
+| 536 | gaming_assassins-creed-pigeons_dark_dots.png | halftone_assassins-creed-pigeons_dark.png | <a href="halftone_assassins-creed-pigeons_dark.png"><img src="halftone_assassins-creed-pigeons_dark.png" width="120"></a> |
+| 537 | nature_moon-field-reflection_dark-blue_dots.png | halftone_moon-field-reflection_dark-blue.png | <a href="halftone_moon-field-reflection_dark-blue.png"><img src="halftone_moon-field-reflection_dark-blue.png" width="120"></a> |
+| 538 | nature_mount-fuji-clouds_black-white_dots.png | halftone_mount-fuji-clouds_black-white.png | <a href="halftone_mount-fuji-clouds_black-white.png"><img src="halftone_mount-fuji-clouds_black-white.png" width="120"></a> |
+| 539 | nature_white-mountain_white-02_dots.png | halftone_white-mountain_white.png | <a href="halftone_white-mountain_white.png"><img src="halftone_white-mountain_white.png" width="120"></a> |
+| 540 | pixelart_medieval-village_blue-green_dots.png | halftone_medieval-village_blue-green.png | <a href="halftone_medieval-village_blue-green.png"><img src="halftone_medieval-village_blue-green.png" width="120"></a> |
