@@ -1,9 +1,13 @@
 Donne-moi un état des lieux du traitement des wallpapers.
 
-1. Compte le nombre total de fichiers images à la racine (.jpg .jpeg .png .webp .gif .bmp .tiff)
-2. Ouvre "wallpapers.md" et compte :
-   - Le nombre de fichiers déjà analysés (lignes du tableau dans le .md)
-   - Le nombre de fichiers déjà renommés (ancien_nom ≠ nouveau_nom et fichier renommé sur disque)
-   - Le nombre de fichiers en attente de renommage (dans le .md mais pas encore renommés)
-   - Le nombre de fichiers pas encore analysés (présents à la racine mais absents du .md)
-3. Affiche un résumé clair avec ces 4 chiffres et un pourcentage d'avancement global
+1. Compte le nombre de fichiers images encore en attente dans `a_traiter/`
+   (.jpg .jpeg .png .webp .gif .bmp .tiff .svg)
+2. Compte le nombre de fichiers rangés dans les sous-dossiers de `assets/<catégorie>/`,
+   et donne la répartition par catégorie
+3. Ouvre "wallpapers.md" et compte :
+   - Le nombre d'entrées du catalogue (lignes du tableau)
+   - Le nombre d'entrées dont le fichier existe réellement dans son sous-dossier
+   - Les éventuelles entrées dont le fichier est introuvable (à réconcilier)
+   - Les fichiers présents dans `assets/` mais absents du catalogue (à cataloguer)
+4. Affiche un résumé clair : en attente (a_traiter), traités (assets), catalogués, et un
+   pourcentage d'avancement global (traités / (traités + en attente)).
