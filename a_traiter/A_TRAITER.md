@@ -59,11 +59,11 @@ Ces images sont sous le Full HD : à remplacer par des versions haute résolutio
 
 | fichier | raison |
 |---------|--------|
-| brown-abstract-5120x2880-26733.webp | basse résolution (1280x720), version HD présente : brown-abstract-3840x2160-26733.jpg |
-| metallic-abstract-5120x2880-26734.webp | basse résolution (1280x720), version HD présente : metallic-abstract-3840x2160-26734.jpg |
-| microsoft-surface-5120x2880-26736.webp | basse résolution (1280x720), version HD présente : microsoft-surface-3840x2160-26736.jpg |
-| arch-wall.jpg | basse résolution (1024x576), version HD présente : Gemini_Generated_Image_or756aor756aor75.jpg |
-| porsche-911-gt3-rs-3840x2160-20432.png | doublon exact de l'ID 328 (cars_porsche-911-gt3-rs_dark-01.png) |
+| macos-sonoma-3840x2160-11574(1).jpeg | doublon exact de macos-sonoma-3840x2160-11574.jpeg |
+| macos-sonoma-3840x2160-11575(1).jpeg | doublon exact de macos-sonoma-3840x2160-11575.jpeg |
+| macos-sonoma-3840x2160-11576(1).jpeg | doublon exact de macos-sonoma-3840x2160-11576.jpeg |
+| macos-sonoma-3840x2160-11577(1).jpeg | doublon exact de macos-sonoma-3840x2160-11577.jpeg |
+| one-piece-roronoa-3840x2160-12170.jpg | doublon exact de l'ID 529 (anime_one-piece-zoro-swords_green-black-02.jpg) |
 
 ## Hors périmètre
 
