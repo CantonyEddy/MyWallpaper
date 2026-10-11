@@ -59,11 +59,10 @@ Ces images sont sous le Full HD : à remplacer par des versions haute résolutio
 
 | fichier | raison |
 |---------|--------|
-| macos-sonoma-3840x2160-11574(1).jpeg | doublon exact de macos-sonoma-3840x2160-11574.jpeg |
-| macos-sonoma-3840x2160-11575(1).jpeg | doublon exact de macos-sonoma-3840x2160-11575.jpeg |
-| macos-sonoma-3840x2160-11576(1).jpeg | doublon exact de macos-sonoma-3840x2160-11576.jpeg |
-| macos-sonoma-3840x2160-11577(1).jpeg | doublon exact de macos-sonoma-3840x2160-11577.jpeg |
-| one-piece-roronoa-3840x2160-12170.jpg | doublon exact de l'ID 529 (anime_one-piece-zoro-swords_green-black-02.jpg) |
+| circles-illusion-black-background-spiral-blue-rings-5k-3840x2160-1212.jpg | doublon exact de l'ID 732 |
+| mount-fuji-3840x2160-18794.jpg | doublon exact de l'ID 667 |
+| purple-aesthetic-3840x2160-18775.jpg | doublon exact de l'ID 677 |
+| solar-eclipse-3840x2160-27333.jpg | doublon exact de l'ID 753 |
 
 ## Hors périmètre
 
